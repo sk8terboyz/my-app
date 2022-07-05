@@ -2,7 +2,7 @@
 
 ## `Author`
 
-Created by Shane Kennedy using the ReactJS Tutorial (https://reactjs.org/tutorial/tutorial.html)
+Created by Shane Kennedy using the `ReactJS Tutorial` (https://reactjs.org/tutorial/tutorial.html)
 
 ## `How to run`
 
